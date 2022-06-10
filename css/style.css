@@ -1,0 +1,26 @@
+#countDown{
+    color: #0d6efd;
+    padding: 10px;
+
+}
+
+
+body{
+    background-color: #F8F9FA;
+}
+.list-group-item{
+    background-color: transparent;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+#user_count{
+    color: #0d6efd;
+}
+#winner{
+    display: none;
+}
